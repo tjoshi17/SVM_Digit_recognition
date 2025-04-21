@@ -10,7 +10,9 @@ Required to develop a model using Support Vector Machine which should correctly 
 
 ### Data Description
 
-For this problem, we use the **MNIST** data which is a large database of handwritten digits. The 'pixel values' of each digit (image) comprise the features, and the actual number between 0-9 is the label. 
+For this problem, we use the **MNIST** data which is a large database of handwritten digits. You can download the dataset from Kaggle [here](https://www.kaggle.com/c/digit-recognizer/data).
+
+The 'pixel values' of each digit (image) comprise the features, and the actual number between 0-9 is the label. 
 
 Since each image is of 28 x 28 pixels, and each pixel forms a feature, there are 784 features. MNIST digit recognition is a well-studied problem in the ML community.
 
